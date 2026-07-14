@@ -125,4 +125,4 @@ This project analyzes historical Stock and Bitcoin price data using Python. It p
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
-- GitHub: https://github.com/YOUR-GITHUB-USERNAME
+- GitHub: https://github.com/puneetsharma560
